@@ -12,3 +12,4 @@ Used links:
 6. [Toggle Switch](https://www.w3schools.com/howto/howto_css_switch.asp)
 7. [onchange Event](https://www.w3schools.com/jsref/event_onchange.asp)
 8. [Document.documentElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/documentElement)
+9. [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)

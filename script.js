@@ -5,6 +5,15 @@ const image1 = document.getElementById('image1');
 const image2 = document.getElementById('image2');
 const image3 = document.getElementById('image3');
 const textBox = document.getElementById('text-box');
+const header = document.querySelector('.header');
+
+window.onscroll = () => {
+  if (window.pageYOffset > 50) {
+    header.classList.add('header-active');
+  } else {
+    header.classList.remove('header-active');
+  }
+};
 
 // Dark or Light Images
 function imageMode(color) {

@@ -105,6 +105,14 @@ img {
   width: 300px;
 }
 
+.header {
+  transition: opacity 1s;
+}
+
+.header-active {
+  opacity: 0;
+}
+
 /* Projects Section */
 .buttons {
   margin-top: 15px;
